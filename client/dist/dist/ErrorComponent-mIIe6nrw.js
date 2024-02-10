@@ -1,0 +1,1 @@
+import{u as e,j as r,B as s,T as n}from"./index-rGG2KKfr.js";const a=()=>{const o=e();return console.log(o),r.jsx("div",{children:r.jsx(s,{style:{marginLeft:250},children:r.jsx(n,{children:"There was an error loading this page"})})})};export{a as default};
